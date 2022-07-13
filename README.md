@@ -1,1 +1,1 @@
-# streamlit_pra
+# streamlitを用いたTwitter分析アプリです
