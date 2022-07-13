@@ -2,4 +2,4 @@ streamlit==1.10.0
 altair==4.2.0
 pandas==1.4.2
 tweepy==4.10.0
-
+json=2.0.9
