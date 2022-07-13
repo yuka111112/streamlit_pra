@@ -3,4 +3,3 @@ altair==4.2.0
 pandas==1.4.2
 tweepy==4.10.0
 mecab-python3==1.0.5
-json
